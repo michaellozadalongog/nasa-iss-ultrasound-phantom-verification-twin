@@ -1,0 +1,3 @@
+phantom,E_target_kPa,median_bias_%,p95_|err|_%,pass_rate_baseline,pass_rate_mitigated,median_shear_speed_m/s,var_share_cool_dev_C,var_share_uniformity_cv,var_share_vib_grms,var_share_cabin_C,var_share_probe_strain
+soft_5kPa,5.0,10.8,32.0,0.452,0.848,1.33,0.109,0.0,0.0,0.213,0.678
+firm_27kPa,27.0,11.0,32.4,0.447,0.84,3.1,0.111,0.0,0.0,0.212,0.677
